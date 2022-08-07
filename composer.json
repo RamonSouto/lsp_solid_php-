@@ -1,0 +1,19 @@
+{
+    "name": "ramon/lsp-pratica",
+    "description": "Treinando a letra L do SOLID",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ramon\\LspPratica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RamonSouto",
+            "email": "rdssi@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
